@@ -26,7 +26,9 @@ To use the app:
 
 The input text is processed by the `generate_summary()` function which handles the NLP analysis and summary generation.
 
-## Customization
+## Output
+<img width="1433" alt="Screenshot 2024-01-24 at 10 12 33 AM" src="https://github.com/singhsneha99/Text-Summarizer-Flask-WebApp/assets/47446483/0b0fa105-012a-4a70-bb55-aaa58b0206fb">
+
 
 The number of sentences in the final summary can be adjusted by changing the slice amount in `summary_sentences` list. 
 
