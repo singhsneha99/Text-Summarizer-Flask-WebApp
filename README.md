@@ -25,13 +25,15 @@ To use the app:
 5. Click "Generate Summary" to see the results
 
 The input text is processed by the `generate_summary()` function which handles the NLP analysis and summary generation.
-
-## Output
-<img width="1433" alt="Screenshot 2024-01-24 at 10 12 33 AM" src="https://github.com/singhsneha99/Text-Summarizer-Flask-WebApp/assets/47446483/0b0fa105-012a-4a70-bb55-aaa58b0206fb">
-
+## Customization
 
 The number of sentences in the final summary can be adjusted by changing the slice amount in `summary_sentences` list. 
 
 Other output like key points, tone and keywords can also be configured as needed for the use case.
 
 Additional summarization algorithms can be added and compared alongside the current keyword extraction method.
+
+## Output
+<img width="1433" alt="Screenshot 2024-01-24 at 10 12 33 AM" src="https://github.com/singhsneha99/Text-Summarizer-Flask-WebApp/assets/47446483/0b0fa105-012a-4a70-bb55-aaa58b0206fb">
+
+
